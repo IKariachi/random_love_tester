@@ -15,7 +15,7 @@ print(p1, "et", p2, "s'aime à", score, "% !")
 if score >= 80:
   print("♥️L'amour pour la vie !")
 
-elif score>= 50:
+elif score>= 40:
   print("🤗L'amour ca devient sérieux.")
 
 else:
